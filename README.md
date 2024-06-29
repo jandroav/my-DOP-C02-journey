@@ -1,6 +1,6 @@
 # :dizzy: my-DOP-C02-journey (AWS Certified DevOps Engineer - Professional)
 
-I would like yo share my journey to get the AWS Certified DevOps Engineer - Professional certification. I hope this information can help you to prepare your exam.
+I would like to share my journey to get the AWS Certified DevOps Engineer - Professional certification. I hope this information can help you to prepare your exam.
 
 ## :muscle: Prepare your exam
 
